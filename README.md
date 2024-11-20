@@ -1,0 +1,2 @@
+# Receita
+Uma receita simples
